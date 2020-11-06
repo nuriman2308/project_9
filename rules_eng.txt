@@ -1,0 +1,14 @@
+The game Togyz Kumalak uses a special board
+with two rows of small holes (nine in each row)
+and two large holes, which are called "Kazan".
+
+At the beginning of the game in each small hole is
+nine stones each.
+
+The player wins the game if he collects in his cauldron.
+More stones than the opponent collects in his own.
+
+If at the end of the game, each of the players has
+the same number of stones, then the game ends in a draw.
+
+Translated with www.DeepL.com/Translator (free version)
