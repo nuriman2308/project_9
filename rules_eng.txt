@@ -1,22 +1,22 @@
-This game consists of the desk and 162 small balls. There are 9 pits - "ui"- on each side of the desk and two bowls - "kazna" - by one for each player.
-The "kazan" of the player situated at the right side. The kazna itself doesn't participate in game, it is only required for saving of balls.
+This game consists of the desk and 162 small balls.
+There are 9 pits - "ui"- on each side of the desk and two bowls - "kazan" - by one for each player.
+The player's "kazan" is closer to the opponent.
+The first position of the game is the following: there are 9 balls in each pit, the kazans are empty. 
 
-The first position of the game is the following: there are 9 balls in each pit, the kaznas are empty. 
 The aim of the game is that the player should win from the competitor more than 81 balls.
-The right to start the game is defined by mutual agreement or by sortition.
-
-The player, who starts the game, takes all balls from any pit on his side, and starting with that pit places one ball in each pit anticlockwise. 
-It is not allowed to jump over pit or to put by two or more balls in one pit.
-After the ninth pit from the first player's side follows the first pit of the competitor, etc.
-If the last ball falls into one of the competitor's pit, and the number of balls in this pit would be even, so the move is considered resulting and the player take all balls from this pit to his kazna. 
+The right to start the game is defined by mutual agreement or by toss.
+The player, who starts the game, takes all balls from any pit on his side,
+and starting with that pit places only one ball in each pit anticlockwise.
+If the last ball falls into one of the competitor's pit, and the number of balls in this pit would be even, 
+so the move is considered resulting and the player take all balls from this pit to his kazan. 
 But if the last ball falls into one of his own pits, irrespectively of number of balls, they wouldn't be taken by anybody.
-If the move starts from the pit, where there is only one ball, so the ball is moving to the next pit, accordingly the previous pit becomes empty.
-
+If the move starts from the pit, where there is only one ball,
+so the ball is moving to the next pit, accordingly the previous pit becomes empty.
 The players are coming one after one.
 
-There is also the rule of "Tuz". If the last ball falls into the competitor's pit, where he has already two balls, so these three balls are moving to the player's kazna and he announces this pocket as "Tuz". 
-Thus, the player wins the whole pit and all those balls that are falling to "Tuz"-pit are moving to his kazna.
-
+There is also the rule of "Tuz". If the last ball falls into the competitor's pit, 
+where he has already two balls, so these three balls are moving to the player's kazna and he announces this pocket as "Tuz". 
+Thus, the player wins the whole pit and all those balls that are falling to "Tuz"-pit are moving to his kazan.
 Each player during the game can announce the "Tuz" pit only once. It is not allowed to change or to take another one "Tuz". 
 According to the rules of the game the ninth pits couldn't become "Tuz". 
 And also if the one player has announced the "Tuz"-pit, so another player can't announce the same pit as Tuz.
